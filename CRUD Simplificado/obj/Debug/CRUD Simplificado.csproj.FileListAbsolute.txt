@@ -1,0 +1,10 @@
+C:\Users\Desenvolvimento2\Documents\Visual Studio 2017\Projects\CRUD Simplificado\CRUD Simplificado\bin\Debug\CRUD Simplificado.exe.config
+C:\Users\Desenvolvimento2\Documents\Visual Studio 2017\Projects\CRUD Simplificado\CRUD Simplificado\bin\Debug\CRUD Simplificado.exe
+C:\Users\Desenvolvimento2\Documents\Visual Studio 2017\Projects\CRUD Simplificado\CRUD Simplificado\bin\Debug\CRUD Simplificado.pdb
+C:\Users\Desenvolvimento2\Documents\Visual Studio 2017\Projects\CRUD Simplificado\CRUD Simplificado\obj\Debug\CRUD Simplificado.csprojAssemblyReference.cache
+C:\Users\Desenvolvimento2\Documents\Visual Studio 2017\Projects\CRUD Simplificado\CRUD Simplificado\obj\Debug\CRUD_Simplificado.Form1.resources
+C:\Users\Desenvolvimento2\Documents\Visual Studio 2017\Projects\CRUD Simplificado\CRUD Simplificado\obj\Debug\CRUD_Simplificado.Properties.Resources.resources
+C:\Users\Desenvolvimento2\Documents\Visual Studio 2017\Projects\CRUD Simplificado\CRUD Simplificado\obj\Debug\CRUD Simplificado.csproj.GenerateResource.cache
+C:\Users\Desenvolvimento2\Documents\Visual Studio 2017\Projects\CRUD Simplificado\CRUD Simplificado\obj\Debug\CRUD Simplificado.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvimento2\Documents\Visual Studio 2017\Projects\CRUD Simplificado\CRUD Simplificado\obj\Debug\CRUD Simplificado.exe
+C:\Users\Desenvolvimento2\Documents\Visual Studio 2017\Projects\CRUD Simplificado\CRUD Simplificado\obj\Debug\CRUD Simplificado.pdb
